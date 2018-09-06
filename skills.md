@@ -18,6 +18,10 @@ description: Things that i can do
 
 ## Server
 
+{% hint style="success" %}
+
+{% endhint %}
+
 ## Tools
 
 {% hint style="success" %}
