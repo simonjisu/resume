@@ -6,8 +6,9 @@ description: Introduce Myself
 
 ## Summary
 
-![https://simonjisu.github.io](.gitbook/assets/blog.png)
+![](.gitbook/assets/blog.png) test on inline image
 
-  
+![](.gitbook/assets/blog.png)
+
 
 
