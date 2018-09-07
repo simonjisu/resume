@@ -10,9 +10,7 @@ description: Introduce Myself
 
 Working at **Naver Connect Foundation**, searching and summarizing well-made AI education contents.
 
-Willing to be **Deep Learning Engineer** in Natural language processing. Recently, Paper
-
-Fast Learner, 
+Willing to be **Deep Learning Engineer** in Natural language processing. 
 
 {% hint style="info" %}
 ### Social & Contact
