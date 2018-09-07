@@ -12,7 +12,7 @@ description: Some projects that I did
 >
 > ![](.gitbook/assets/c_github.png) [https://github.com/simonjisu/deepnlp\_study](https://github.com/simonjisu/deepnlp_study)
 
-Implementation of all famous NLP Papers Using Pytorch
+**Implementation of all famous NLP Papers Using Pytorch**
 {% endtab %}
 
 {% tab title="Todo" %}
@@ -28,7 +28,9 @@ Implementation of all famous NLP Papers Using Pytorch
 >
 > ![](.gitbook/assets/c_github.png) [https://github.com/simonjisu/NMT](https://github.com/simonjisu/NMT)
 
-Paper Implementation: "[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)" - Kyunghyun Cho \(v7 2016\)
+**Paper Implementation:** 
+
+"[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)" - Kyunghyun Cho \(v7 2016\)
 {% endtab %}
 
 {% tab title="Conclusion" %}
@@ -44,7 +46,7 @@ Paper Implementation: "[Neural Machine Translation by Jointly Learning to Align 
 {% endtab %}
 {% endtabs %}
 
-## Naver Sentiment Movie Corpus Classification
+## NSMC Classification
 
 {% tabs %}
 {% tab title="Summary" %}
@@ -52,7 +54,9 @@ Paper Implementation: "[Neural Machine Translation by Jointly Learning to Align 
 >
 > ![](.gitbook/assets/c_github.png) [https://github.com/simonjisu/nsmc\_study](https://github.com/simonjisu/nsmc_study)
 
-Sentiment Classification: Classify Good/Bad from movie reviews using Bi-directional LSTM and Self-Attention with the paper "[A Structured Self-Attentive Sentence Embedding](https://arxiv.org/abs/1703.03130)" - Zhouhan Lin \(2017\)
+**Naver Sentiment Movie Corpus Classification:** 
+
+Classify Good/Bad from movie reviews using Bi-directional LSTM and Self-Attention with the paper "[A Structured Self-Attentive Sentence Embedding](https://arxiv.org/abs/1703.03130)" - Zhouhan Lin \(2017\)
 {% endtab %}
 
 {% tab title="Conclusion" %}

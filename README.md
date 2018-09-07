@@ -6,9 +6,13 @@ description: Introduce Myself
 
 ![](.gitbook/assets/profile_img.jpeg)
 
-## Profile
+## Profile : JiSoo Jang
 
-Willing to be **Deep Learning Engineer** in Natural language processing. 
+Working at **Naver Connect Foundation**, searching and summarizing well-made AI education contents.
+
+Willing to be **Deep Learning Engineer** in Natural language processing. Recently, Paper
+
+Fast Learner, 
 
 {% hint style="info" %}
 ### Social & Contact

@@ -4,32 +4,38 @@ description: Things that i can do
 
 # Skills
 
-> ![](.gitbook/assets/4.png) : Major Skill  
-> ![](.gitbook/assets/3.png) : Use frequently  
-> ![](.gitbook/assets/2.png) : Basic knowledge  
-> ![](.gitbook/assets/1.png) : Familiar with it
+> ![](.gitbook/assets/c_check.png) Major Skill
 
 ## Programming Language
 
-* **Python** ![](.gitbook/assets/4.png) 
-* **HTML** ![](.gitbook/assets/2.png) 
-* **R** ![](.gitbook/assets/1.png) 
+* **Python** ![](.gitbook/assets/c_check.png)
+* **HTML**
+* **R**
 
 ## Frameworks / Library
 
-* **Pytorch**![](.gitbook/assets/4.png)
-* **Numpy** ![](.gitbook/assets/4.png) 
-* **Scikit-Learn**![](.gitbook/assets/3.png)
-* **Pandas** ![](.gitbook/assets/3.png) 
+Build Deep Learning models with Pytorch normally.
 
-## Server
+* **Pytorch** ![](.gitbook/assets/c_check.png)
+* **Numpy**![](.gitbook/assets/c_check.png)
+* **Scikit-Learn**
+* **Pandas** 
+* **Keras**
 
-* **Ubuntu** ![](.gitbook/assets/2.png) 
-* **Postgresql** ![](.gitbook/assets/2.png) 
+## Devops
+
+Having experience in building a server for training model using deep learning & gpu\(cuda\)
+
+* **Git / Github** ![](.gitbook/assets/c_check.png)
+* **Ubuntu**
+* **Postgresql**
+* **Bash**
 
 ## Etc
 
-* **Git / Github** ![](.gitbook/assets/4.png) 
-* **Excel / Google Spreadsheet** ![](.gitbook/assets/4.png) 
-* **Word / Google Docs** ![](.gitbook/assets/4.png) 
+* **Excel / Google Spreadsheet** ![](.gitbook/assets/c_check.png) 
+* **Word / Google Docs** ![](.gitbook/assets/c_check.png) 
+* **Language: Korean, Chinese, English** ![](.gitbook/assets/c_check.png) 
+
+\*\*\*\*
 
