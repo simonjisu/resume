@@ -8,16 +8,18 @@ description: Introduce Myself
 
 ## Profile
 
-
+Willing to be **Deep Learning Engineer** in Natural language processing. 
 
 {% hint style="info" %}
 ### Social & Contact
 
-![](.gitbook/assets/c_gmail.png) simonjisu@gmail.com
+![](.gitbook/assets/c_gmail.png) **Mail** : simonjisu@gmail.com
 
-![](.gitbook/assets/c_fb.png) [https://www.facebook.com/simonjisu](https://www.facebook.com/simonjisu)  
+![](.gitbook/assets/c_fb.png) **Facebook** : [https://www.facebook.com/simonjisu](https://www.facebook.com/simonjisu)  
 
-![](.gitbook/assets/c_github.png) [https://github.com/simonjisu](https://github.com/simonjisu) 
+![](.gitbook/assets/c_github.png) **Github** : [https://github.com/simonjisu](https://github.com/simonjisu) 
+
+![](.gitbook/assets/c_blog.png) **Blog** : [https://simonjisu.github.io](https://simonjisu.github.io)
 {% endhint %}
 
 

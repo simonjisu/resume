@@ -37,9 +37,9 @@ Paper Implementation: "[Neural Machine Translation by Jointly Learning to Align 
 
 {% tab title="Todo" %}
 * [ ] Figure out how to improve performance 
-* [ ] Use LayerNormGRU instead of GRU
-* [ ] Use Beam Search at decoder instead of Greedy Search
-* [ ] Try [Recurrent Memory Networks](%20https://arxiv.org/pdf/1601.01272)
+  * [ ] Use LayerNormGRU instead of GRU
+  * [ ] Use Beam Search at decoder instead of Greedy Search
+  * [ ] Try [Recurrent Memory Networks](%20https://arxiv.org/pdf/1601.01272)
 * [ ] Use it to translate Japanese Animation to Korean \(STT\)
 {% endtab %}
 {% endtabs %}
