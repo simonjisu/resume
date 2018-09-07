@@ -6,11 +6,17 @@ description: Things that i can do
 
 ## Programming Language
 
+
+
 ## Frameworks / Library
 
 ## Server
 
+* Ubuntu
+
 ## Tools
+
+* Github
 
 ## Etc
 
