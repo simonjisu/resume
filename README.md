@@ -6,8 +6,6 @@ description: Introduce Myself
 
 ## Summary
 
-![https://simonjisu.github.io](.gitbook/assets/blog.png)
-
   
 
 
