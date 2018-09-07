@@ -4,8 +4,8 @@
 
 > MOOC AI Contents Team \(18.02.26 ~ present\)
 
-* Role: Find AI education contents and publish them into [edwith](https://www.edwith.org/) platform.
-* published "Learning NLP with Deeplearning" coruse which
+* Role: Find AI education contents , Publish & summarize Contents and upload them into [edwith](https://www.edwith.org/) platform.
+* published "Learning NLP with Deeplearning - KyungHyunCho" coruse \([Link](https://www.edwith.org/deepnlp)\)
 
 
 
